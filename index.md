@@ -12,7 +12,7 @@ layout: page
   {% when 1 or 21 or 31 %}{{ d }}st,
   {% when 2 or 22 %}{{ d }}nd,
   {% when 3 or 23 %}{{ d }}rd,
-  {% else %}{{ d }}th
+  {% else %}{{ d }}th,
 {% endcase %}
 {{ post.date | date: "%Y" }}
 </span>
