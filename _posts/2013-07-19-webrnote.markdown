@@ -1,0 +1,17 @@
+---
+author: dbtek
+comments: true
+date: 2013-07-19 13:11:53+00:00
+layout: post
+slug: webrnote
+title: Webrnote - (Evernote Client)
+wordpress_id: 456
+categories:
+- Genel
+---
+
+Evernote, bilindiği gibi notlarınızı organize eden, cross-platform bir uygulama. Mac, Windows, IOS, Android gibi bir çok platform için uygulamaları mevcut. Ancak Linux için official bir uygulaması yok. 3rd party client'lar da hiç kullanılası değil.
+
+Bu sebeplerden dolayı web arayüzünü kullanmayı tercih ettim. Bu defa da onlarca açık tab arasında kayboluyor. Sonunda basit bir gtk uygulaması hazırlayıp webview içerisinde Evernote web arayüzünü göstermeye karar verdim. Sonuç: Webrnote :)
+
+Webrnote [icon name=icon-github arg=icon-large] [Github](https://github.com/dbtek/webrnote)'da...

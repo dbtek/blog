@@ -1,0 +1,22 @@
+<! -- sidebar.html -->
+<header class="sidebar-header" role="banner">
+	<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=150" class="img-circle" />
+	<h3 class="title">{{ site.title }}</h3>
+</header>
+
+<div id="contact-links">
+	<ul class="list-unstyled list-inline text-center">
+		<li>
+			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.github }}">
+				<i class="fa fa-github-alt fa-lg"></i>
+			</a>
+		</li>
+		<li>
+			<a class="btn btn-default btn-sm" href="https://github.com/{{ site.author.twitter }}">
+				<i class="fa fa-twitter fa-lg"></i>
+			</a>
+		</li>
+	</ul>
+</div>
+
+<! -- sidebar.html end -->
