@@ -4,7 +4,7 @@ comments: true
 date: 2013-08-26 11:38:10+00:00
 layout: post
 slug: raspberry-pi-ssh-destegi-ile-boot
-title: Raspberry Pi, SSH Desteği ile Boot
+title: Raspberry Pi, SSH Destegi ile Boot
 wordpress_id: 478
 categories:
 - Bilişim-Teknoloji
@@ -19,10 +19,11 @@ tags:
 - ssh
 - ssh desteği
 ---
+[![plogo](http://blog.ismaildemirbilek.com/wp-content/uploads/2013/08/plogo.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2013/08/plogo.png)
 
 Bilindiği gibi Raspberry Pi için oluşturulan distrolar monitör ve klavye ile boot edilip kullanıma hazır hale geliyor. Peki HDMI destekli bir monitörünüz yoksa ne yapacaksınız?
 
-Linux makinelere ssh protokolü ile bağlanıp bash'te komut çalıştırılabilir. Ancak makine'de ssh server bulunmalı ve bu makine[![plogo](http://blog.ismaildemirbilek.com/wp-content/uploads/2013/08/plogo.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2013/08/plogo.png)de bir takım konfigürasyonlar yapılmalıdır. Bu konfigurasyonlar monitör olmadığı için yükleme yapılmış sd kartta boot öncesi yapılmak zorunda. Bir takım araştırmalar sonucu elde ettiğim bilgileri adım adım yapılacaklar biçiminde derledim.<!-- more -->
+Linux makinelere ssh protokolü ile bağlanıp bash'te komut çalıştırılabilir. Ancak makine'de ssh server bulunmalı ve bu makinede bir takım konfigürasyonlar yapılmalıdır. Bu konfigurasyonlar monitör olmadığı için yükleme yapılmış sd kartta boot öncesi yapılmak zorunda. Bir takım araştırmalar sonucu elde ettiğim bilgileri adım adım yapılacaklar biçiminde derledim.<!-- more -->
 
 
 Raspbian wheezy imajı (Pi için Debian distrosu) kurulu bir sdkartın hazır olduğunu varsayarak, _Ubuntu/Linux üzerinde_, sonraki adımlara göz atabiliriz. (Raspbian kurulumu için [tıklayınız](Using_command_line_tools_.282.29).)
