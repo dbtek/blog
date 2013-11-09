@@ -85,13 +85,13 @@ JB :
     disqus :
       short_name : dbtek
     livefyre :
-      site_id : 123
+      site_id : 
     intensedebate :
-      account : 123abc
+      account : 
     facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
+      appid : 
+      num_posts: 
+      width: 
       colorscheme: light
    
   # Settings for analytics helper
