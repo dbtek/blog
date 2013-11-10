@@ -11,7 +11,7 @@ body{
 }
 .sidebar-header {
 	text-align: center;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 .sidebar-header .title{
 	letter-spacing: 3px;
@@ -21,6 +21,17 @@ body{
 .sidebar-header .title a{
 	text-decoration: none;
 	color: #2c3e50;
+}
+
+#bio {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 11px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+#contact-list-secondary {
+	padding-bottom: 10px;
 }
 
 article{
