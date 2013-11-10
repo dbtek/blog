@@ -16,7 +16,7 @@ tags:
 - proje
 ---
 
-[![safe_image[2]](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/safe_image2_thumb.gif)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/safe_image2.gif)Daha önceki bir [yazımda](http://blog.ismaildemirbilek.com/genel/oracle-java-yaz-okulu/) bahsetmiştim Java Yaz Okulundan. 3 haftalık yoğun bir eğitim programı sebebiyle eğitmenimiz Akın Kaldıroğlu, Oracle çalışanları ve diğer öğrenci arkadaşlarla olan beraberliğimiz dün sona erdi. Gerek eğitmenimizin teknik bilgisi gerekse sıcak yaklaşımı sayesinde Java eğitiminin daha renkli bir hal alması bu 3 haftalık eğitimin katma değerini daha da artırdı.
+[![safe_image[2]](/assets/media/2010/08/safe_image2_thumb.gif)](/assets/media/2010/08/safe_image2.gif)Daha önceki bir [yazımda](http://blog.ismaildemirbilek.com/genel/oracle-java-yaz-okulu/) bahsetmiştim Java Yaz Okulundan. 3 haftalık yoğun bir eğitim programı sebebiyle eğitmenimiz Akın Kaldıroğlu, Oracle çalışanları ve diğer öğrenci arkadaşlarla olan beraberliğimiz dün sona erdi. Gerek eğitmenimizin teknik bilgisi gerekse sıcak yaklaşımı sayesinde Java eğitiminin daha renkli bir hal alması bu 3 haftalık eğitimin katma değerini daha da artırdı.
 
 Benim gözümde bu eğitim amacına ulaşmaktan fazlasını yaptı. Java üzerinde çok fazla bir geçmişim olmamasına rağmen 3 hafta sonunda Core Java’dan tutun jdbc, swing, servlet, jsp, jsf, jpa, xml, web service gibi teknolojileri öğrendim. 3 hafta önce bu teknolojilere hakim değilken şimdi ise Java ile çalışmayı düşünüyorum.<!-- more -->
 

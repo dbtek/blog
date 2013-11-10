@@ -24,7 +24,7 @@ tags:
 
 **Wicket Nedir?**
 
-![](http://blog.ismaildemirbilek.com/wp-content/uploads/2011/01/wickets.png)
+![](/assets/media/2011/01/wickets.png)
 
 Apache Wicket, kısaca Wicket, bir Java EE çatısıdır. (bkz. [Apache Wicket](http://en.wikipedia.org/wiki/Apache_Wicket)) Java web uygulaması frameworkü Wicket, [JSF](http://en.wikipedia.org/wiki/JavaServer_Faces) ile
 
@@ -47,7 +47,7 @@ Web uygulamamızda kullanacağımız Wicket'ı yüklü frameworkler listesinden 
 
 Projemiz hazır. Doğru bir şekilde oluşturulmuş wicket projesi Netbeans'de şu şekilde görünüyor:
 
-[![](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/11/Ekran-Görüntüsü.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/11/Ekran-Görüntüsü.png)
+[![](/assets/media/2010/11/Ekran-Görüntüsü.png)](/assets/media/2010/11/Ekran-Görüntüsü.png)
 
 Böylece kurulum kısmı tamamlanmış oldu. Bundan sonra NetBeans Wicket ile geliştirme yapmak için hazır durumda.
 

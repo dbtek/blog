@@ -29,7 +29,7 @@ tags:
 
 Bu aralar seçmeli olarak aldığım Art & Interpretation dersi için sunum hazırlıyorum. İstanbul Modern'den bir eser beğenmiştim yapacağım sunum hakkında. Aşağıda fotoğrafı olan eser.
 
-[![](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/04/balikcicocuk2.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/04/balikcicocuk2.jpg)
+[![](/assets/media/2010/04/balikcicocuk2.jpg)](/assets/media/2010/04/balikcicocuk2.jpg)
 
 [](http://dbtek.files.wordpress.com/2010/04/balikcicocuk.jpg)
 
@@ -39,7 +39,7 @@ Eserin adı Balıkçı çocuk ve kediler. Orhan Peker tarafından resmedilmiş. 
 
 <!-- more -->
 
-[](http://dbtek.files.wordpress.com/2010/04/marat.jpg)[![](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/04/marat2.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/04/marat2.jpg)
+[](http://dbtek.files.wordpress.com/2010/04/marat.jpg)[![](/assets/media/2010/04/marat2.jpg)](/assets/media/2010/04/marat2.jpg)
 
 
 > Aslen doktor olan ama daha çok fransız ihtilalini ateşleyen gazete  yazılarıyla ve liderliğiyle bilinen marat ([jean paul marat](http://sozluk.sourtimes.org/show.asp?t=jean+paul+marat)) ile ressam [jacques-louis david](http://sozluk.sourtimes.org/show.asp?t=jacques-louis+david&nr=y&pt=jacques+louis+david) arkadaşlarmış.  marat, [jakobenlerin](http://sozluk.sourtimes.org/show.asp?t=jakoben) lideri olduktan kısa bir süre sonra yakalandığı bir cilt hastalığından  dolayı, günün büyük bölümünü banyo küvetinde geçiriyormuş. [jironden](http://sozluk.sourtimes.org/show.asp?t=jironden) taraftarı [charlotte corday](http://sozluk.sourtimes.org/show.asp?t=marie+anne+charlotte+corday), gizli bilgiler getirdim diyerek  marat'a yaklaşmış, bıçağını çekmiş, marat'ı öldürmüş... tabii bu  cinayetin bedeli olarak kendisine de giyotin yolu görünmüş...

@@ -18,13 +18,13 @@ tags:
 - ubuntu
 ---
 
-[![](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/UbuntuLogoSn-296x300.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/UbuntuLogoSn.png)Ne zaman istediğimi bilmiyorum belki 3 belki 4 hafta önce. Kaldığım yurtta isteyen arkadaşlarıma ubuntu kurmaları için yardımcı oluyordum. Yurtta pek fazla kullanan olduğunu söyleyemem ama elimden geldiğince özgür yazılıma destek amaçlı işte. Neyse, ubuntu’nun yeni sürümünü indirirken [Request CD](http://shipit.ubuntu.com) bölümüne bir bakayım dedim. Gönderiyorlarsa dağıtırım arkadaşlarıma düşüncesiyle. Doldurdum formu, aradan uzun zaman geçince ben unutmuşum cd’leri beklemiyordum bile. Ama 2 hafta önce ebay’den aldığım ufak tefek ürünlerin gelmesini bekliyordum. Bir gün Java kursundan dönüşte postaları kontrol ederken ebay’den aldıklarımın geldiğini gördüm ve hemen altında ubuntu cd’lerinin de. :)
+[![](/assets/media/2010/08/UbuntuLogoSn-296x300.png)](/assets/media/2010/08/UbuntuLogoSn.png)Ne zaman istediğimi bilmiyorum belki 3 belki 4 hafta önce. Kaldığım yurtta isteyen arkadaşlarıma ubuntu kurmaları için yardımcı oluyordum. Yurtta pek fazla kullanan olduğunu söyleyemem ama elimden geldiğince özgür yazılıma destek amaçlı işte. Neyse, ubuntu’nun yeni sürümünü indirirken [Request CD](http://shipit.ubuntu.com) bölümüne bir bakayım dedim. Gönderiyorlarsa dağıtırım arkadaşlarıma düşüncesiyle. Doldurdum formu, aradan uzun zaman geçince ben unutmuşum cd’leri beklemiyordum bile. Ama 2 hafta önce ebay’den aldığım ufak tefek ürünlerin gelmesini bekliyordum. Bir gün Java kursundan dönüşte postaları kontrol ederken ebay’den aldıklarımın geldiğini gördüm ve hemen altında ubuntu cd’lerinin de. :)
 
-[![DSCN7823](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/DSCN7823_thumb.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/DSCN7823.jpg)   
+[![DSCN7823](/assets/media/2010/08/DSCN7823_thumb.jpg)](/assets/media/2010/08/DSCN7823.jpg)
 
  
 
-[](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/DSCN7823.jpg)
+[](/assets/media/2010/08/DSCN7823.jpg)
 
  
 
@@ -45,7 +45,7 @@ Tabi unutmuş olmanın da etkisiyle beklenmedik bir hediye almışcasına bir mu
       
         
 
-[![DSCN7827](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/DSCN7827_thumb.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/DSCN7827.jpg)
+[![DSCN7827](/assets/media/2010/08/DSCN7827_thumb.jpg)](/assets/media/2010/08/DSCN7827.jpg)
 
       
        

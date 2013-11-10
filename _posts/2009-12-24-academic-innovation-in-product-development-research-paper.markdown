@@ -22,7 +22,7 @@ tags:
 - writing
 ---
 
-[![eng_book](http://blog.ismaildemirbilek.com/wp-content/uploads/2009/12/book.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2009/12/book.png)
+[![eng_book](/assets/media/2009/12/book.png)](/assets/media/2009/12/book.png)
 İyiliği kendine düstur edinmiş sayın pek değerli Gamze hocam sayesinde bir kabus olduğu görüşü pek de yaygın olan İngilizce 201 [Writing Research Papers] dersini kazasız, belasız ve de hoş sohbetlerle atlattık. En az hocam kadar tatlı grup arkadaşlarım Çağlar ve Ayşenur'un da desteği hayatiydi kuşkusuz.
 
 Birçok endüstri ve ekonomi camiasında merakla beklenen makalemizin adı, Using Innovation in Product Development. İnovasyon alanında yeni nesillere yol gösterecek :) çalışmamız bence takdire şayan idi.

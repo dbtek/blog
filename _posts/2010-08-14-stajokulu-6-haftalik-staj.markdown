@@ -18,7 +18,7 @@ tags:
 - stajokulu
 ---
 
-[![logo](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/logo_thumb.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/logo.jpg)
+[![logo](/assets/media/2010/08/logo_thumb.jpg)](/assets/media/2010/08/logo.jpg)
 
 [StajOkulu](http://stajokulu.com)’ndan daha önce yazdığım bir [yazıda](http://blog.ismaildemirbilek.com/genel/staj-okulu/) bahsetmiştim. StajOkulu’nda yaptığım 6  haftalık mükemmel bir staj bitti. Staj süresince alanında uzman eğitimci / çalışanlardan oluşan eğitmenlerden bir çok konuda ciddi bir eğitim aldım diyebilirim. 4 haftalık eğitimin ardından 2 haftalık proje geliştirmeye dayalı uygulama stajı vardı. Ben son haftaya yeni başlayan Java eğitimim sebebiyle katılamadım.
 

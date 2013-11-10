@@ -23,7 +23,7 @@ tags:
 - yayınlama
 ---
 
-[![n47gqd](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/n47gqd_thumb.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/n47gqd.png) [Wordpress](http://wordpress.org) ve bir takım blog servislerinde yeni bir blog girdisi yayımlamak için her seferinde admin panelinize gitmenize gerek yok. Live writer gibi ücretsiz yazılımlar ile masaüstünüzden kolayca yazınızı hazırlayabilir istediğiniz şekilde düzenledikten sonra yayınlayabilirsiniz.
+[![n47gqd](/assets/media/2010/08/n47gqd_thumb.png)](/assets/media/2010/08/n47gqd.png) [Wordpress](http://wordpress.org) ve bir takım blog servislerinde yeni bir blog girdisi yayımlamak için her seferinde admin panelinize gitmenize gerek yok. Live writer gibi ücretsiz yazılımlar ile masaüstünüzden kolayca yazınızı hazırlayabilir istediğiniz şekilde düzenledikten sonra yayınlayabilirsiniz.
 
 
 Şimdi Windows için nasıl yapılıra bakalım:
@@ -36,10 +36,10 @@ tags:
 
 
 	
-  * [![1](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/1_thumb.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/1.png)Kurulumu tamamlandıktan sonra blogunuzu da uzaktan yayınlama yapmak için hazırlamanız gerekiyor. Blogunuzun admin panelinden ("alanadı.com/wp-admin" ya da "isim.wordpress.com/wp-admin" adresinde) “Ayarlar” bölümündeki “Yazma” sekmesinden “Uzaktan yayımlama” seçeneklerinde “**Atom Yayımlama Protokolü**” ve “**XML-RPC**” seçeneklerini aktifleştirin. (Aşağıdaki resimlerden yararlanabilirsiniz.)
+  * [![1](/assets/media/2010/08/1_thumb.png)](/assets/media/2010/08/1.png)Kurulumu tamamlandıktan sonra blogunuzu da uzaktan yayınlama yapmak için hazırlamanız gerekiyor. Blogunuzun admin panelinden ("alanadı.com/wp-admin" ya da "isim.wordpress.com/wp-admin" adresinde) “Ayarlar” bölümündeki “Yazma” sekmesinden “Uzaktan yayımlama” seçeneklerinde “**Atom Yayımlama Protokolü**” ve “**XML-RPC**” seçeneklerini aktifleştirin. (Aşağıdaki resimlerden yararlanabilirsiniz.)
 
 
-[![3](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/3_thumb1.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/31.png)
+[![3](/assets/media/2010/08/3_thumb1.png)](/assets/media/2010/08/31.png)
 
 
 

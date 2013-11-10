@@ -19,7 +19,7 @@ tags:
 - ssh
 - ssh desteği
 ---
-[![plogo](http://blog.ismaildemirbilek.com/wp-content/uploads/2013/08/plogo.png)](http://blog.ismaildemirbilek.com/wp-content/uploads/2013/08/plogo.png)
+[![plogo](/assets/media/2013/08/plogo.png)](/assets/media/2013/08/plogo.png)
 
 Bilindiği gibi Raspberry Pi için oluşturulan distrolar monitör ve klavye ile boot edilip kullanıma hazır hale geliyor. Peki HDMI destekli bir monitörünüz yoksa ne yapacaksınız?
 

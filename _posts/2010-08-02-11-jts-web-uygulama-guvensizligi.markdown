@@ -23,7 +23,7 @@ Geçtiğimiz hafta Perşembe (29.07.2010) günü [Java Teknoloji Saatlerinin 11.
 
 Oldukça kalabalık olan salonda güvenlik denince akla gelen ilk isimlerden [Huzeyfe Önal](http://blog.lifeoverip.net/) vardı. Sunum esnasındaki sıcak yaklaşımıyla güvenliği teknik detaylara çok girmeden keyifli taraflarıyla anlatan Huzeyfe Önal'ın performansı kuşkusuz muhteşemdi.
 
-[![](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/IMG_0604-300x200.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/IMG_0604.jpg)
+[![](/assets/media/2010/08/IMG_0604-300x200.jpg)](/assets/media/2010/08/IMG_0604.jpg)
 
 <!-- more -->
 
@@ -52,7 +52,7 @@ Günümüzde internetin yaygın kullanım sahalarından bahsederken bu noktada w
 
 Sunum aralarında demo videolarıyla keyifli dakikalar geçirdik. Dünyadan ve Türkiye'den web güvensizliği örnekleri ile sunuma ayrı bir renk geldi. Zekice bulunmuş güvenlik açıklarını bazen komik bir fotoğraf karesi bazen de gazete haberleriyle gördük.
 
-[![](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/IMG_0618-300x200.jpg)](http://blog.ismaildemirbilek.com/wp-content/uploads/2010/08/IMG_0618.jpg)
+[![](/assets/media/2010/08/IMG_0618-300x200.jpg)](/assets/media/2010/08/IMG_0618.jpg)
 
 Güvenlikçilerin halen OSI 4 katmanından yukarıya çıkmadıklarını, gelişen ihtiyaçların yazıllım güvenliği diye yeni bir meslek ortaya çıkardığını, önümüzdeki 2 yılın güvenlikçiler için altın çağ olduğunu öğrendiğim etkinlik için genel kanaatim kusursuz bir etkinlik olduğu yönünde.
 
