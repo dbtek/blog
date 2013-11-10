@@ -1,6 +1,6 @@
-blog
+dbtek.github.io
 ====
 
 My personal blog powered by jekyll-bootstrap-3
 
-[dbtek.github.io/blog](http://dbtek.github.io/blog)
+[ismaildemirbilek.com](http://ismaildemirbilek.com)
