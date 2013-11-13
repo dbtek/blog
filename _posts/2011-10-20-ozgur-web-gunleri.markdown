@@ -5,6 +5,7 @@ date: 2011-10-20 08:37:50+00:00
 layout: post
 slug: ozgur-web-gunleri
 title: Özgür Web Günleri
+shortinfo: Özgür Web Günleri 2011
 wordpress_id: 350
 categories:
 - Bilişim-Teknoloji
