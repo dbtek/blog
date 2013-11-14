@@ -5,6 +5,7 @@ date: 2013-08-15 07:08:42+00:00
 layout: post
 slug: zamani-genisletmenin-14-sirri
 title: Zamanı Genişletmenin 14 Sırrı
+shortinfo: "'Zaman konusunda saplantılı biriyim. Zaman en değerli kaynağımız. Başka hiç bir şey bu kadar değerli olamaz'" 
 wordpress_id: 466
 categories:
 - Genel

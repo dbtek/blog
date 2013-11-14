@@ -5,6 +5,7 @@ date: 2013-08-26 11:38:10+00:00
 layout: post
 slug: raspberry-pi-ssh-destegi-ile-boot
 title: Raspberry Pi, SSH Destegi ile Boot
+shortinfo: Monitör ya da TV bağlamadan Pi kurulumu.
 wordpress_id: 478
 categories:
 - Bilişim-Teknoloji

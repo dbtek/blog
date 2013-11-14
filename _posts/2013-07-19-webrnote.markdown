@@ -5,6 +5,7 @@ date: 2013-07-19 13:11:53+00:00
 layout: post
 slug: webrnote
 title: Webrnote - (Evernote Client)
+shortinfo: Evernote için GTK+3 client. [Home-made!]
 wordpress_id: 456
 categories:
 - Genel
