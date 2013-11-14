@@ -4,7 +4,7 @@ layout: page
 {% include JB/setup %}
 
 {% for post in site.posts %}
-<article>
+<article class="home">
 <span class="post-date">
 {% assign d = post.date | date: "%d" | plus:'0' %}
 {{ post.date | date: "%B" }} 
