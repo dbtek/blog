@@ -21,7 +21,8 @@ layout: page
 </h3>
 <p>
 <a href="{{post.url }}">
-{{ if post.shortinfo }}{{ post.shortinfo }}{{ else }}...{{ /if }}
+{% if post.shortinfo %}{{ post.shortinfo }}{% elsif post.description %}{{ post.description }}{% else %}..{% endif %}
+
 </a>
 </p>
 </article>
