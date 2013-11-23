@@ -17,6 +17,6 @@ It is opensourced under MIT license. Wisteria can be found on [Gnome-Look](http:
 
 #### Screenshots
 
-![Wisteria-a](https://raw.github.com/dbtek/wisteria/master/wisteria-a.png)
+![Wisteria-a]({{ site.BASE_PATH}}/assets/media/2013/11/wisteria-a.png)
 
-![Wisteria-b](https://raw.github.com/dbtek/wisteria/master/wisteria-b.png)
+![Wisteria-b]({{ site.BASE_PATH}}/assets/media/2013/11//wisteria-b.png)
