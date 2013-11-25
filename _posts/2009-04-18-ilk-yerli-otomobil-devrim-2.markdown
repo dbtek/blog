@@ -9,14 +9,6 @@ wordpress_id: 90
 categories:
 - Genel
 ---
-
-           
-
-Yazım tarihi 21 Nov 2008 yazan: dbtek  
-  
-[](http://dbtek.wordpress.com/wp-admin/post.php?action=edit&post=5)    
-      
-
 Devrim… İlk Türk Yapımı Otomobili
 
 Türkiye’deki çok bilinmeyen bir gerçeği başarılı bir şekilde perdeye aktaran Devrim Arabaları filmini izledikten sonra etkisinde kalmış olmalıyım ki ufak bir araştırma yapma isteği duydum kendimde. Edindiğim bilgileri sizlerle de paylaşmak isterim.
@@ -157,29 +149,4 @@ Yük.Müh.Hasan DİNÇER
 
 ****
 
-—————————
-
-Karoseri
-
-Grubundan Yük.Müh.Salih Kaya SAĞIN’ın yazısından yararlanılarak hazırlanmıştır.
-
-Yararlı bilgiler verebildiysek ne mutlu! Başta yazısından yararlandığım
-
-Yük.Müh.Salih Kaya SAĞIN’a ve diğer emeği geçen proje yönetimindeki ve çalışma
-
-grubundaki Türk mühendislerine ve işçilerine teşekkürü kendime borç bilirim.
-
-     
-
-  
-[](http://dbtek.wordpress.com/2008/11/21/ilk-yerli-otomobil-devrim/#respond)     
-
-     
-
-   
-
-  
-  
-var addthis_pub="dbtek";  
-[![Bookmark and Share](http://s7.addthis.com/static/btn/lg-share-en.gif)](http://www.addthis.com/bookmark.php?v=20)  
-
+Karoseri grubundan Yük.Müh.Salih Kaya SAĞIN’ın yazısından yararlanılarak hazırlanmıştır. Yararlı bilgiler verebildiysek ne mutlu! Başta yazısından yararlandığım Yük.Müh.Salih Kaya SAĞIN’a ve diğer emeği geçen proje yönetimindeki ve çalışma grubundaki Türk mühendislerine ve işçilerine teşekkürü kendime borç bilirim.

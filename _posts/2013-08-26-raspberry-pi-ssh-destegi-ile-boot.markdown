@@ -27,7 +27,7 @@ Bilindiği gibi Raspberry Pi için oluşturulan distrolar monitör ve klavye ile
 Linux makinelere ssh protokolü ile bağlanıp bash'te komut çalıştırılabilir. Ancak makine'de ssh server bulunmalı ve bu makinede bir takım konfigürasyonlar yapılmalıdır. Bu konfigurasyonlar monitör olmadığı için yükleme yapılmış sd kartta boot öncesi yapılmak zorunda. Bir takım araştırmalar sonucu elde ettiğim bilgileri adım adım yapılacaklar biçiminde derledim.<!-- more -->
 
 
-Raspbian wheezy imajı (Pi için Debian distrosu) kurulu bir sdkartın hazır olduğunu varsayarak, _Ubuntu/Linux üzerinde_, sonraki adımlara göz atabiliriz. (Raspbian kurulumu için [tıklayınız](Using_command_line_tools_.282.29).)
+Raspbian wheezy imajı (Pi için Debian distrosu) kurulu bir sdkartın hazır olduğunu varsayarak, _Ubuntu/Linux üzerinde_, sonraki adımlara göz atabiliriz. (Raspbian kurulumu için [tıklayınız](http://elinux.org/RPi_Easy_SD_Card_Setup#Using_command_line_tools_.281.29).)
 
 
 Raspbian kurulu sdkart üzerinde iki partition bulunur. Bunlardan birisinde bin, dev, etc.. gibi dizinler var. Bu partition üzerinde işlem yapılacaktır. Verilen dizin yapısı buna göre değerlendirilmelidir.
@@ -55,7 +55,7 @@ Dosyanın içeriği aşağıdaki içerik ile değiştirilir. Network gereksiniml
 
 Artık Pi boot edildiğinde verilen statik ip ile networke bağlanacaktır.
 
-SSH Raspbian içerisinde aktifleştirilmiş olarak bulunuyor ancak bir takım konfigürasyonlar yapmak gerekmekte. Bunun için bash'te çalışacak komutlar yazmak mümkün. [Bu çözüme  [stackexhange](http://raspberrypi.stackexchange.com/questions/4444/enabling-ssh-on-rpi-without-screen-keystrokes-for-raspi-config#answer-8083)'de [nortally](http://raspberrypi.stackexchange.com/users/8114/nortally) tarafından yazılımış bir cevap ile ulaşmıştım.]
+SSH Raspbian içerisinde aktifleştirilmiş olarak bulunuyor ancak bir takım konfigürasyonlar yapmak gerekmekte. Bunun için bash'te çalışacak komutlar yazmak mümkün. Bu çözüme [stackexhange](http://raspberrypi.stackexchange.com/questions/4444/enabling-ssh-on-rpi-without-screen-keystrokes-for-raspi-config#answer-8083)'de [nortally](http://raspberrypi.stackexchange.com/users/8114/nortally) tarafından yazılımış bir cevap ile ulaşmıştım.]
 
 /etc dizininde bayrak niteliğinde bir dosya eklenir:
 

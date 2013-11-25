@@ -3,7 +3,7 @@ author: dbtek
 comments: true
 date: 2009-04-23 19:49:55+00:00
 layout: post
-slug: t%ce%b8b%ce%b8-rf-kontrollu-mobil-kure
+slug: tobo-rf-kontrollu-mobil-kure
 title: TΘBΘ™-RF Kontrollü Mobil Küre
 wordpress_id: 85
 categories:
@@ -39,7 +39,7 @@ Aslında robotop da iyi bir isim olabilirdi ama ismi de babası versin artık de
 
 [![Bookmark and Share](http://s7.addthis.com/static/btn/lg-share-en.gif)](http://www.addthis.com/bookmark.php?v=20) Ayrıntılı bilgi için aşağıdaki bağlantılara bakabilirsiniz.  [](http://robosel.blogspot.com/)
 
-[Robosel](http://robosel.blogspot.com/) 
+[Robosel](http://robosel.blogspot.com/)
 
 [İTÜRO Yarışma Sonuçları](http://www.ituro.itu.edu.tr/sonucDefault.aspx) [](http://selcuklum.blogspot.com/)
 

@@ -38,15 +38,15 @@ Windows Vista / 7 için:
 
 1-Öncelikle Ağ ve  Paylaşım Merkezi'ne giriyoruz.
 
-![](http://grou.ps/wysiwyg_files/editor/kervan-20100624130449-tllbgvqxtmlbgdkyp.jpg)
+<pre>Image Lost</pre>
 
 2-Bağlı  bulunduğumuz ağın üzerine tıklıyarak aşağıdaki pencerenin açılmasını  sağlıyoruz.
 
-![](http://grou.ps/wysiwyg_files/editor/kervan-20100624130744-tllbgvqxtmlbgdkyp.jpg)
+<pre>Image Lost</pre>
 
 3- Internet Protocol Version 4 (TCP/IPv4)  seçeneğine çift tıklıyoruz.
 
-![](http://grou.ps/wysiwyg_files/editor/kervan-20100624131000-tllbgvqxtmlbgdkyp.jpg)
+<pre>Image Lost</pre>
 
 4- Yukarıdaki resimde görüldüğü gibi DNS adresine  8.8.8.8 ve alternatif DNS'ye de 8.8.4.4 girerek tamam tuşuna basıp  işlemi tamamlıyoruz.
 

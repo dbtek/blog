@@ -17,8 +17,4 @@ tags:
 - shopping
 ---
 
-[![](http://www.markafoni.com/site_media/cache-120/htmlv2/images/icons/icon1.png)](http://www.markafoni.com/i/ismail_demirbilek/)
-
-Uzun bir aradan sonra bir yazayımdedim. Geçenlerde markafoni'den bir alışveriş yapmıştım. Nerede kaldı bu ürün dedikten sonra sipariş detaylarına bakarken bir davet linki gördüm. "Bu link sadece size ait.  Arkadaşlarınıza gönderebilir, blog’unuzda yer  verebilir, tüm sosyal  ağlarda paylaşabilirsiniz. Sadece kopyalayın ve  yapıştırın!" yazısını okurken, blog? tabi ya benim bir blogum vaar demekten alıkoyamadım kendimi doğrusu. Hani benim referansımla üye olanlar ilk alışverişlerini yaptıklarında bana 10 TL veriyor ya bu markafoni, işte simbiyotik bir işlem olması adına ben de bu linki sizlerle paylaşayım dedim maksat referansı olmayanlara yardımcı olmak ;). İşte [buraya](http://www.markafoni.com/i/ismail_demirbilek/) tıklayarak kolayca üyeliğinizi tamamlayabilir markafoni'den ucuz ucuz alışverişler yapabilirsiniz.
-
-[![](http://www.markafoni.com/site_media/cache-120/htmlv2/images/icons/icon1.png)](http://www.markafoni.com/i/ismail_demirbilek/)
+Geçenlerde markafoni'den bir alışveriş yapmıştım. Nerede kaldı bu ürün dedikten sonra sipariş detaylarına bakarken bir davet linki gördüm. "Bu link sadece size ait.  Arkadaşlarınıza gönderebilir, blog’unuzda yer  verebilir, tüm sosyal  ağlarda paylaşabilirsiniz. Sadece kopyalayın ve  yapıştırın!" yazısını okurken, blog? tabi ya benim bir blogum vaar demekten alıkoyamadım kendimi doğrusu. Hani benim referansımla üye olanlar ilk alışverişlerini yaptıklarında bana 10 TL veriyor ya bu markafoni, işte simbiyotik bir işlem olması adına ben de bu linki sizlerle paylaşayım dedim maksat referansı olmayanlara yardımcı olmak ;). İşte [buraya](http://www.markafoni.com/i/ismail_demirbilek/) tıklayarak kolayca üyeliğinizi tamamlayabilir markafoni'den ucuz ucuz alışverişler yapabilirsiniz.
