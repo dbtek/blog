@@ -17,14 +17,15 @@ tags:
 - zamanı genişletmek
 ---
 
-Girişimci ve NY Times Bestselling yazarı [Kevin Kruse](http://kevinkruse.com/) blogunda zamanı genişletmenin sırlarına çok beğendiğim bir [yazı](http://kevinkruse.com/14-secrets-to-expanding-time/)sında ışık tutmuş. Yazının türkçe çevirisiniyle ilgilenenler için yaptığım çeviri:
-Zamanı Genişletmenin 14 Sırrı
+Girişimci ve NY Times Bestselling yazarı [Kevin Kruse](http://kevinkruse.com/) blogunda zamanı genişletmenin sırlarına çok beğendiğim bir [yazı](http://kevinkruse.com/14-secrets-to-expanding-time/)sında ışık tutmuş.
+
+[Sanalkurs](http://sanalkurs.net) Dergi'nin [16. sayı](http://dergi.sanalkurs.net/online/sk16/#134)sında yayınlanan, makale için yaptığım çeviri:
+
+**Zamanı Genişletmenin 14 Sırrı**
 
 Zaman konusunda saplantılı biriyim. Zaman en değerli kaynağımız. Başka hiç bir şey bu kadar değerli olamaz hatta zamana yaklaşamaz bile; para, çok kolay. Bu gerçek zaman metdolojisi olan Getting Things Done (GTD)'nin ve 4-Hour Work Week'in popülerliğini açıklıyor.
 
 Kendime aşağıdaki anahtar maddeleri hatırlatmak üretkenliğimi artırmada çok önemli bir yer edindi.
-
-
 
 	
   1. 1440 = bir gündeki dakika miktarı. (Eskiden ofisimin kapısına kendime ve diğerlerine hatırlatıcı olarak bir 1440 afişi asardım.)
