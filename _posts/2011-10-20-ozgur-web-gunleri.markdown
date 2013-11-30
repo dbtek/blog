@@ -20,7 +20,7 @@ categories:
 
 Yeditepe Üniversitesi'nin etkinliğe ev sahipliği yapması, bana biraz uzak kalmasına rağmen güzel bir şey. Nedendir bilmesem de Yeditepe'nin kampusünü seviyorum.
 
-Üç paralel oturumlarla gerçekleştirilen web teknolojileri ve özgür yazılım ile alakalı bir çok seminer vardı. Maalesef sadece ilk gün katılabildim. Katıldığım seminerler: **OpenKM Özgür Doküman Yönetim Sistemi, Java EE 6 Teknolojileri, Özgür Yazılımlar ile Statik ve Dinamik Kod Güvenliği Analizi ve Java EE 6 ile Uygulama Geliştirme [Atölye].<!-- more -->**
+Üç paralel oturumlarla gerçekleştirilen web teknolojileri ve özgür yazılım ile alakalı bir çok seminer vardı. Maalesef sadece ilk gün katılabildim. Katıldığım seminerler: **OpenKM Özgür Doküman Yönetim Sistemi, Java EE 6 Teknolojileri, Özgür Yazılımlar ile Statik ve Dinamik Kod Güvenliği Analizi ve Java EE 6 ile Uygulama Geliştirme (Atölye).**
 
 Etkinlikte önce OpenKM ile tanışmış oldum. OpenKM ve diğer döküman yönetim sistemleri hakkında bilgi sahibi oldum. OpenKM, arka tarafta sunucu kipinde bir LibreOffice (OpenOffice) koşturuyormuş. Her türlü döküman oluşturma, çoklu kullanıcı desteği  ile döküman yönetimi, PDF ve benzeri dosya türlerine dönüştürme işlemlerini başarı ile gerçekleştiriyor.
 
