@@ -8,8 +8,7 @@ title: 'Cismarty: Codeigniter ve Smarty'
 shortinfo: Popüler PHP frameworkü Codeigniter ve Smarty template engine bundle. [Home-made!]
 wordpress_id: 430
 categories:
-- Web
-- Yazılım
+- Projects
 tags:
 - bundle
 - codeigniter
