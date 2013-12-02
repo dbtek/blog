@@ -88,8 +88,37 @@
         {% include JB/comments %}
 	</div>
 	
-	<div class="col-sm-2 sidebar-2">
-	
+	<div class="col-sm-2 sidebar-right">
+
+        {% if page.project %}
+            {% if page.project.demo != null %}
+                <div class="project-btn">
+                    <a href="{{ page.project.demo }}" class="btn btn-default">
+                        <i class="fa fa-play-circle-o fa-4x"></i>
+                        <br/>
+                        Demo
+                    </a>
+                </div>
+            {% endif %}
+            {% if page.project.github %}
+                <div class="project-btn">
+                    <a href="{{ page.project.github }}" class="btn btn-default">
+                        <i class="fa fa-github fa-4x"></i>
+                        <br/>
+                        On GitHub
+                    </a>
+                </div>
+            {% endif %}
+            {% if page.project.license %}
+                <div class="project-btn">
+                    <a href="{{ page.project.license.url }}" class="btn btn-default">
+                        <i class="fa fa-code fa-4x"></i>
+                        <br/>
+                        © {{ page.project.license.name }}
+                    </a>
+                </div>
+            {% endif %}
+        {% endif %}
 	</div>
 </article>
 <div class="clearfix"></div>

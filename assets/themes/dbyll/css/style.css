@@ -84,3 +84,18 @@ footer {
      left: inherit;
      right: 0px;
  }
+
+.sidebar-right{
+    position: fixed;
+    right: 0px;
+    padding-top: 60px;
+}
+
+.project-btn {
+    text-align: right;
+    margin-bottom: 20px;
+    margin-right: 15px;
+}
+.project-btn a {
+    min-width: 105px;
+}
