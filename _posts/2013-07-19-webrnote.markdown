@@ -9,6 +9,10 @@ shortinfo: Evernote için GTK+3 client. [Home-made!]
 wordpress_id: 456
 categories:
 - Projects
+project: {
+            github: 'https://github.com/dbtek/webrnote',
+            license: { name: 'MIT', url: 'opensource.org/licenses/MIT' }
+        }
 ---
 
 Evernote, bilindiği gibi notlarınızı organize eden, cross-platform bir uygulama. Mac, Windows, IOS, Android gibi bir çok platform için uygulamaları mevcut. Ancak Linux için official bir uygulaması yok. 3rd party client'lar da hiç kullanılası değil.

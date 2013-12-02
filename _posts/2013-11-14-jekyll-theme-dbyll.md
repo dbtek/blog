@@ -4,6 +4,11 @@ title: "Jekyll Theme: dbyll"
 description: "Stylish, minimalistic blog theme for Jekyll"
 category: Projects
 tags: [jekyll, theme, stylish, dbyll]
+project: {
+            demo: 'http://dbtek.github.io/dbyll',
+            github: 'https://github.com/dbtek/dbyll',
+            license: { name: 'MIT', url: 'opensource.org/licenses/MIT' }
+        }
 ---
 {% include JB/setup %}
 

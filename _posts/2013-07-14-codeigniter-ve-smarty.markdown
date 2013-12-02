@@ -18,6 +18,11 @@ tags:
 - php
 - smarty
 - template
+
+project: {
+            github: 'https://github.com/dbtek/cismarty',
+            license: { name: 'MIT', url: 'opensource.org/licenses/MIT' }
+        }
 ---
 
 Güçlü bir MVC frameworku olan Codeigniter üzerinde bir template engine kullanma ihtiyacı hissedebilirsiniz. Smarty, Codeigniter ile birlikte harikalar çıkarmanıza ortam sağlıyor.
