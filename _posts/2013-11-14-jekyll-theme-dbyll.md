@@ -7,7 +7,7 @@ tags: [jekyll, theme, stylish, dbyll]
 project: {
             demo: 'http://dbtek.github.io/dbyll',
             github: 'https://github.com/dbtek/dbyll',
-            license: { name: 'MIT', url: 'opensource.org/licenses/MIT' }
+            license: { name: 'MIT', url: 'http://opensource.org/licenses/MIT' }
         }
 ---
 {% include JB/setup %}

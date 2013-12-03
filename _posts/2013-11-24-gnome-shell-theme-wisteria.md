@@ -9,7 +9,7 @@ tags: [theme, gnome-shell, wisteria, flat]
 
 project: {
             github: 'https://github.com/dbtek/wisteria',
-            license: { name: 'MIT', url: 'opensource.org/licenses/MIT' }
+            license: { name: 'MIT', url: 'http://opensource.org/licenses/MIT' }
         }
 ---
 {% include JB/setup %}
