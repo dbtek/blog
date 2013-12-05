@@ -8,6 +8,7 @@ title: Oracle-Java Yaz Okulu
 wordpress_id: 237
 categories:
 - Genel
+- Java
 ---
 
 ![](/assets/media/2010/08/safe_image.gif)Oracle’ın düzenleyeceği bir [Java yaz okulu](http://www.google.com.tr/url?sa=t&source=web&cd=2&ved=0CB0QFjAB&url=http%3A%2F%2Femeapressoffice.oracle.com%2FPress-Releases%2FOracle-dan-Gen%25C3%25A7lere-%25C3%259Ccretsiz-Java-E%25C4%259Fitimi-ve-Kariyer-F%25C4%25B1rsat%25C4%25B1-1473.aspx&ei=xudnTOHWCMbuOaWPzbkF&usg=AFQjCNH0kXnQ1Xs68Uv5arXOVO7XDU5hmg&sig2=b7w8pf8EgBBsiE5saZTl6w) olacağını duymuştum saygı duyduğum birinden. Hemen araştırdık okuldan bir arkadaşım ile, sadece belli üniversitelerin gönderdiği öğrencileri alıyorlarmış programa. Biz de hemen okulda fakulte dekanlığında aldık soluğu. Orada yardımcı oldular ve ertesi gün kabul edildiğimize dair bir e-posta geldi.
