@@ -8,7 +8,6 @@ title: Oracle Java Yaz Okulu – II
 wordpress_id: 277
 categories:
 - Bilişim-Teknoloji
-- İş &amp; Staj
 tags:
 - eğitim
 - java
