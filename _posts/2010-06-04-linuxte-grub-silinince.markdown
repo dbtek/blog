@@ -29,16 +29,15 @@ Gelelim çözümüne. Bu noktada Ubuntu'nun ya da hangi dağıtımı kullanıyor
 
 Örneğin;
 
-[<!-- more -->http://www.howtogeek.com/howto/ubuntu/reinstall-ubuntu-grub-bootloader-after-windows-wipes-it-out](http://www.howtogeek.com/howto/ubuntu/reinstall-ubuntu-grub-bootloader-after-windows-wipes-it-out) 
+[http://www.howtogeek.com/howto/ubuntu/reinstall-ubuntu-grub-bootloader-after-windows-wipes-it-out](http://www.howtogeek.com/howto/ubuntu/reinstall-ubuntu-grub-bootloader-after-windows-wipes-it-out)
 
 
-> sudo grub
-
-> root (hd0,0)
-
-> setup (hd0)
-
-> exit
+{% highlight bash %}
+sudo grub
+root (hd0,0)
+setup (hd0)
+exit
+{% endhighlight %}
 
 
 Fakat bu kodlarda ben grub ile ilgili bir çok hata aldım. Live CD'yi denedim terminali denedim olmadı yine olmadı. Yahu bunun kodsuz, yazısız, klavyesiz en önemlisi sorunsuz bir çözümü yok mu derken...
@@ -49,39 +48,13 @@ Hemen bir google araması ardından[http://www.supergrubdisk.org/](http://www.su
 
 Tekrar özetlemek gerekirse:
 
-
 1-[http://www.supergrubdisk.org/index.php?pid=5"](http://www.supergrubdisk.org/index.php?pid=5) adresinden iso dosyasını indirip bir boş cdye nero ya da Windows disk yazıcısıyla yazın.
-
-
-
-
 2-Diski bilgisayara takıp yeniden başlatın. Eğer cd'den boot olmuyorsa bios ayarlarınızda cdrom birincil boot aygıtı olarak seçilmelidir.
-
-
-
-
 3- Açılan menüde Linux'ü seçerek işletim sisteminizi başlatın.
-
-
-
-
 4-PC açılınca paket yöneticisini açın burada arama kutusuna grub yazın.
-
-
-
-
 5-Eğer çıkan sonuçlarda grub vb gibi bir paketin yanındaki kutucuk işaretli ise bu paketi kaldırın.
-
-
-
-
 6-Şimdi kurmak istediğiniz grub sürümünü işaretleyin ardından uygula deyip işlem bitince pencereyi kapatın.
-
-
-
-
 7- Cdromdan diski çıkarıp bilgisayarı yeniden başlatın.
-
 
 Hatasız olarak kurulum gerçekleştiyse grub ekranınız sorunsuz karşınıza çıkacaktır.
 

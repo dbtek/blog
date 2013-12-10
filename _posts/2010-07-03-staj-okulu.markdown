@@ -28,9 +28,6 @@ Projenin temel amacı staj yapan öğrencilere öğretim üyeleri ya da sektörd
 
 Bir stajokulu öğrencisi şu cümleler ile tanımlıyor projeyi:
 
-<!-- more -->
-
-
 > Bir Sosyal sorumluluk projesi olan  Stajokulu benim gibi staj yeri bulmakta güçlük çeken öğrencilere ofis  ortamından daha fazlasını sunuyor.Alanında uzman eğitimcilerin katıldığı  dersler sayesinde bilgisayar teknolojileri alanında birçok konuda fikir  sahibi olabilirsiniz. Ayrıca paylaşmayı seven eğitimcilerle  iletişiminizi koparmayıp projeleriniz,iş başvurularınız,mülakatlarınız  gibi birçok konuda yardımlarını isteyebilirsiniz.Hiçbir konuda yardımını  esirgemeyen Stajokulu gönüllü çalışan ve eğitmenlerine teşekkür ederim.
 
 Engin Bahadır
@@ -41,7 +38,6 @@ Eğitimler genelde bilişim sektörü ile alakalı. Tabi farklı kategorilerde f
 
 ## Peki kim bu projenin mimarı?
 
-
 Projenin tüm yönetimi bir insan kaynakları sitesi olan [empatik.net](http://)'te. Programa dahil olmak için [stajokulu.com](http://stajokulu.com/) üzerinden başvuru yapmanız yeterli. Bundan sonra sizi mülakata çağırıyorlar. (Bu konuda çok hızlılar akşam başvuru yaptım ertesi gün sabah aradılar.) Unutmadan, başvuru sırasında sizden empatik.net üzerinde bir öz geçmiş oluşturmanızı istiyor. Bunu yapmanız çok önemli zira mülakatta çok işe yarıyor.
 
 [![](http://www.empatik.net/image/logo.gif)](http://www.empatik.net)
@@ -50,4 +46,4 @@ Projenin tüm yönetimi bir insan kaynakları sitesi olan [empatik.net](http://)
 
 Bu programa daha önce dahil olmuş öğrencilerin Stajokulu hakkında yazdığı diğer yorumları okumak için [buraya ](http://www.stajokulu.com/StajOkulu2009/yorumyaz.aspx)tıklayın.
 
-Programa kaydolmak için [buraya ](http://www.stajokulu.com/uyelik/yeni.aspx)tıklayın.
+Programa kaydolmak için [kayıt sayfası](http://www.stajokulu.com/uyelik/yeni.aspx)nı ziyaret edebilirsiniz.

@@ -26,8 +26,6 @@ Sitenizde picasa'dan embed ettiğiniz fotoğrafları görememenizin ve de bu fot
 
 Bu  sayfada bu engelellemeyi aşmanın bir yolu olan google DNS ayarlarının kullanımını anlatacağım.
 
-<!-- more -->
-
 Öncelikle  erişip erişemediğimizi kontrol edelim. Zira bazı kullanıcılarda bu ip  engeline rastlanılmadığı da oluyor.
 
 Örnek olarak picasa'yı  deneyebiliriz. Farklı bir google servisini de erişemeyebilirsiniz diğer  servisleri de denemekte yarar var.
