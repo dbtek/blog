@@ -22,6 +22,10 @@ tagline: Ismail Demirbilek
         </span>
 
         <h2>
+            {% if post.lang %}
+            <span class="badge hidden-xs" style="position: absolute; left: -20px; margin-top: 7px;">{{ post.lang }}</span>
+            <span class="badge pull-right visible-xs" style="margin-top:7px;">{{ post.lang }}</span>
+            {% endif %}
             <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
         </h2>
 

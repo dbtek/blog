@@ -2,6 +2,7 @@
 layout: post
 title: "Gnome Shell Theme: Wisteria"
 description: "Flat, stylish Gnome Shell theme."
+lang: en
 categories:
 - Projects
 - Linux

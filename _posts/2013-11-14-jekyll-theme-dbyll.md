@@ -2,6 +2,7 @@
 layout: post
 title: "Jekyll Theme: dbyll"
 description: "Stylish, minimalistic blog theme for Jekyll"
+lang: en
 category: Projects
 tags: [jekyll, theme, stylish, dbyll]
 project: {
