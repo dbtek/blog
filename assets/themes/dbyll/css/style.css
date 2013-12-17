@@ -97,6 +97,15 @@ footer {
     margin-bottom: 20px;
     margin-right: 15px;
 }
+
 .project-btn a {
     min-width: 105px;
+}
+
+.pager li>a {
+    border-radius: 4px;
+}
+
+.pager li>span {
+    border: none;
 }
