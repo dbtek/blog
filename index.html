@@ -6,7 +6,7 @@ tagline: Ismail Demirbilek
 {% include JB/setup %}
 
 {% for post in paginator.posts %}
-
+  {% if post.hidden != true %}
     <article class="home">
 
         <span class="post-date">
@@ -43,6 +43,7 @@ tagline: Ismail Demirbilek
         </div>
 
     </article>
+  {% endif %}
 {% endfor %}
 <hr/>
 
