@@ -3,8 +3,9 @@ layout: post
 title: "Bootstrap Vertical Tabs"
 description: "Missing vertical tabs component for Bootstrap 3"
 lang: en
-category:
-tags: []
+categories:
+- Projects
+tags: [bootstrap, vertical, tabs, component, missing]
 project: {
             github: 'https://github.com/dbtek/bootstrap-vertical-tabs',
             license: { name: 'MIT', url: 'http://opensource.org/licenses/MIT' }

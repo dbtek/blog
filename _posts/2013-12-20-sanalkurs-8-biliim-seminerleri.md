@@ -3,7 +3,7 @@ layout: post
 title: "Sanalkurs 8. Bilişim Seminerleri"
 description: "Sanalkurs seminerindeki sunum ve demo içerikleri"
 category:
-tags: []
+tags: [sanalkurs, seminer, sunum, proje, responsive, tasarım]
 ---
 {% include JB/setup %}
 
