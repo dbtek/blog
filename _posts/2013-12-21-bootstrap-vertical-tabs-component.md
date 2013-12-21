@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bootstrap Vertical Tabs"
+title: "Bootstrap Vertical Tabs Component"
 description: "Missing vertical tabs component for Bootstrap 3"
 lang: en
 categories:
