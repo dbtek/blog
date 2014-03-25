@@ -13,7 +13,7 @@ project: {
 ---
 {% include JB/setup %}
 
-I personally use Bootstrap a lot on my projects. As known Bootstrap removed vertical tabs with 3rd version. I think they were pretty handy. Especially for navigation inside a content.
+I personally use Bootstrap a lot for my projects. As known Bootstrap removed vertical tabs with 3rd version. I think they were pretty handy. Especially for navigation inside a content.
 
 So I have managed to use vertical tabs with some additions and made this project named, *Bootstrap Vertical Tabs*.
 
