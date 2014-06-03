@@ -42,6 +42,8 @@ Following the instructions you can choose additional libraries such as Bootstrap
 ####Tests
 There is a test file for the Main controller under `test/spec` directory. This test ensures a model in the controller, `awesomeThings` has 3 objects.
 
+To run tests with Jasmine install it via `npm install karma-jasmine --save`.
+
 To run written tests under `test` directory, run `grunt test` command. This command runs tests in your app through karma with Jasmine. You probably will need to launch a browser and visit karma server most likely running on `localhost:8080` manually. This process can also be automated by installing a karma browser launcher. To install a launcher you can run one of these commands:
 
 ```bash
