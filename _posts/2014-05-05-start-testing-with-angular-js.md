@@ -53,6 +53,8 @@ $ npm install karma-firefox-launcher --save
 $ npm install karma-chrome-launcher --save
 {% endhighlight %}
 
+You can set which browser to be launched on `karma.conf.js` within this line: `browsers: ['Chrome']`.
+
 ###Further
 `yeoman-angular` generator promises much more than these. There are plenty of [sub-generators](https://github.com/yeoman/generator-angular#generators) available within this generator.
 
