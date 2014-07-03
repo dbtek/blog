@@ -23,10 +23,10 @@ $ npm install -g yeoman
   
 ###Scaffold Angular JS App
 
-First let's install yeoman-angular generator.
+First let's install Angular generator.
 
 {% highlight bash %}
-$ npm install -g yeoman-angular
+$ npm install -g generator-angular
 {% endhighlight %}
 
 Then create a project directory in your workspace
@@ -56,7 +56,7 @@ $ npm install karma-chrome-launcher --save
 You can set which browser to be launched on `karma.conf.js` within this line: `browsers: ['Chrome']`.
 
 ###Further
-`yeoman-angular` generator promises much more than these. There are plenty of [sub-generators](https://github.com/yeoman/generator-angular#generators) available within this generator.
+Yeoman Angular generator promises much more than these. There are plenty of [sub-generators](https://github.com/yeoman/generator-angular#generators) available within this generator.
 
 For example, running `yo angular:route user` generates a controller on `/app/controllers/main.js` with name `MainCtrl`, a view under `/app/views/user.html` and a unit test on `/test/spec/controllers/main.js`. Also adds route configurations to `/app/scripts/app.js`.
 
