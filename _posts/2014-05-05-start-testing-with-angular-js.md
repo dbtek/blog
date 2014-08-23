@@ -44,20 +44,21 @@ Following the instructions you can choose additional libraries such as Bootstrap
 ###Tests
 There is a test file for the Main controller under `test/spec` directory. This test ensures a model in the controller, `awesomeThings` has 3 objects.
 
-To run tests with Jasmine install it via `npm install karma-jasmine --save`.
+To run tests with Jasmine install it via `npm install karma-jasmine --save-dev`.
 
-To run written tests under `test` directory, run `grunt test` command. This command runs tests in your app through karma with Jasmine. You probably will need to launch a browser and visit karma server most likely running on `localhost:8080` manually. This process can also be automated by installing a karma browser launcher. To install a launcher you can run one of these commands:
+To run written tests under `test` directory, run `grunt test` command. This command runs tests in your app through karma with Jasmine. You probably will need to launch a browser and visit karma server most likely running on `localhost:8080` manually. This process can also be automated by installing a karma browser launcher. It's best to install Phantom Js launcher since Phantom is headless webkit intended for tests. To install a launcher you can run one of these commands:
 
 {% highlight bash %}
-$ npm install karma-firefox-launcher --save
-$ npm install karma-chrome-launcher --save
+$ npm install karma-phantomjs-launcher --save-dev
+$ npm install karma-firefox-launcher --save-dev
+$ npm install karma-chrome-launcher --save-dev
 {% endhighlight %}
 
-You can set which browser to be launched on `karma.conf.js` within this line: `browsers: ['Chrome']`.
+You can set which browser to be launched on `karma.conf.js` within this line: `browsers: ['PhantomJS']`.
 
 ###Further
 Yeoman Angular generator promises much more than these. There are plenty of [sub-generators](https://github.com/yeoman/generator-angular#generators) available within this generator.
 
-For example, running `yo angular:route user` generates a controller on `/app/controllers/main.js` with name `MainCtrl`, a view under `/app/views/user.html` and a unit test on `/test/spec/controllers/main.js`. Also adds route configurations to `/app/scripts/app.js`.
+For example, running `yo angular:route user` generates a controller on `/app/controllers/user.js` with name `UserCtrl`, a view under `/app/views/user.html` and a unit test on `/test/spec/controllers/main.js`. Also adds route configurations to `/app/scripts/app.js`.
 
 You can visit [project page](https://github.com/yeoman/generator-angular#angularjs-generator-) for documentation.
