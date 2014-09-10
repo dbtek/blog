@@ -16,18 +16,18 @@ Off canvas menu should be created in controllers and should support both string 
 
 A little css hacking on modal gives us the off-canvas menu we always wanted. And modal has the windowClass option, awesome! 
 
-```js
+{% highlight js %}
 ...
 var modalInstance = $modal.open({
   windowClass: 'ng-aside'
 });
-```
+{% endhighlight%}
 
 This creates a modal window with class `ng-aside`. All to be done is hacking the modal with some css to make it look like a menu. However if we want a menu we would want it to be configurable like place it left or right. So I have released this [angular-aside](https://github.com/dbtek/angular-aside) module which basically does it by extending `$modal` provider with a factory named `$aside` (thanks to angular-strap for the name) supporting all the configuration that modal provides. Additionally there is the `placement` configuration to set menu location left or right. It also includes animations provided by the awesome [animate.css](http://daneden.github.io/animate.css/).
 
 Here is an example usage: 
 
-```js
+{% highlight js %}
 angular.module('myApp', ['ui.bootstrap', 'ngAside'])
   .controller('MyController', function($scope, $aside) {
     var asideInstance = $aside.open({
@@ -37,7 +37,7 @@ angular.module('myApp', ['ui.bootstrap', 'ngAside'])
       size: 'lg'
     });
   });
-```
+{% endhighlight %}
 
 ###Live Demo
 
