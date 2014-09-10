@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Angular Off Canvas Menu"
-description: ""
 category: 
 tags: [angular, off, canvas, menu, ui, bootstrap, modal]
 ---
