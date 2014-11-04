@@ -23,9 +23,9 @@ Girişimci ve NY Times Bestselling yazarı [Kevin Kruse](http://kevinkruse.com/)
 
 **Zamanı Genişletmenin 14 Sırrı**
 
-Zaman konusunda saplantılı biriyim. Zaman en değerli kaynağımız. Başka hiç bir şey bu kadar değerli olamaz hatta zamana yaklaşamaz bile; para, çok kolay. Bu gerçek zaman metdolojisi olan Getting Things Done (GTD)'nin ve 4-Hour Work Week'in popülerliğini açıklıyor.
+Zaman konusunda saplantılı biriyim. Zaman en değerli kaynağımız. Başka hiç bir şey bu kadar değerli olamaz, hatta zamana yaklaşamaz bile; para, çok kolay. Bu, gerçek zaman metodolojisi olan Getting Things Done (GTD)'nin ve 4-Hour Work Week'in popülerliğini açıklıyor.
 
-Kendime aşağıdaki anahtar maddeleri hatırlatmak üretkenliğimi artırmada çok önemli bir yer edindi.
+Kendime aşağıdaki anahtar maddeleri hatırlatmak, üretkenliğimi artırmada çok önemli bir yer edindi.
 
 	
   1. 1440 = bir gündeki dakika miktarı. (Eskiden ofisimin kapısına kendime ve diğerlerine hatırlatıcı olarak bir 1440 afişi asardım.)
