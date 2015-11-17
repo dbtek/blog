@@ -5,7 +5,6 @@ description: "Sanalkurs seminerindeki sunum ve demo içerikleri"
 category:
 tags: [sanalkurs, seminer, sunum, proje, responsive, tasarım]
 ---
-{% include JB/setup %}
 
 Sanalkurs seminerinde 'Responsive Tasarım' konulu konuşmamda yapılan sunuma aşağıdaki linklerden ulaşabilirsiniz.
 

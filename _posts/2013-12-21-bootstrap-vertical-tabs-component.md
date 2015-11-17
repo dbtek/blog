@@ -11,7 +11,6 @@ project: {
             license: { name: 'MIT', url: 'http://opensource.org/licenses/MIT' }
         }
 ---
-{% include JB/setup %}
 
 I personally use Bootstrap a lot for my projects. As known Bootstrap removed vertical tabs with 3rd version. I think they were pretty handy. Especially for navigation inside a content.
 

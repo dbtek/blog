@@ -5,7 +5,6 @@ description: "Story of an off canvas menu module for Angular JS."
 category: 
 tags: [angular, off, canvas, menu, ui, bootstrap, modal]
 ---
-{% include JB/setup %}
 
 Angular UI is a huge project providing many easy to use components with very much comfort. I personally use these modules nearly all of my Angular JS & Bootstrap projects.
 
