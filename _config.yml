@@ -27,11 +27,12 @@ github_username:  dbtek
 # Theming options
 # These settings are mandatory.
 theme:              'blue_grey-pink'
+
 # drawer theming
 drawer:
-  header_color:     'blue-grey-300'
+  header_color:     'blue-700'
   title_color:      'white'
-  text_color:       'blue-300'
+  text_color:       'blue-grey-700'
   navigation_color: 'grey-200'
 # footer theming
 footer:
