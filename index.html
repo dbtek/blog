@@ -18,7 +18,10 @@ layout: default
         </h5>
         <h1>{{ post.title }}</h1>
       </div>
-      {{ post.content | truncatewords: 105 }}
+      <div class="content">
+        {{ post.content | truncatewords: 105 }}
+        </code></pre></figure><!-- if there is a codeblock unclosed in truncated text -->
+      </div>
       <p>
         <a class="mdl-button mdl-button--accent" href="{{ post.url | replace_first: '/', '' | prepend: site.baseurl | prepend: site.url }}">Read more</a>
       </p>
