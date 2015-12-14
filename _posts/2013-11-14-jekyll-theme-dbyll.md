@@ -11,7 +11,6 @@ project: {
             license: { name: 'MIT', url: 'http://opensource.org/licenses/MIT' }
         }
 ---
-{% include JB/setup %}
 
 Theme I am using on this blog, named ***dbyll*** is available on github under MIT license.
 

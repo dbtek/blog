@@ -1,5 +1,11 @@
 ---
 layout: default
 ---
-{% include JB/setup %}
-{% include themes/dbyll/page.html %}
+<div class="page">
+  <header>
+    <h3>{{ page.title }}</h3>
+  </header>
+  <article>
+    {{ content }}
+  </article>
+</div>

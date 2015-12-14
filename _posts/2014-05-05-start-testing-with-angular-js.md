@@ -6,7 +6,6 @@ lang: en
 category: "App Development"
 tags: [angular, yeoman, grunt, testing]
 ---
-{% include JB/setup %}
 
 As widely known, Angular JS is saving our lives with its practical and yet powerful functionalities. And, test driven development with Angular JS is a dream already came true. Angular JS with its sophisticated dependency injection, module structure and plain old Javascript object models is so easy to code, maintain and test.
 

@@ -7,13 +7,11 @@ categories:
 - Projects
 - Linux
 tags: [theme, gnome-shell, wisteria, flat]
-
 project: {
             github: 'https://github.com/dbtek/wisteria',
             license: { name: 'MIT', url: 'http://opensource.org/licenses/MIT' }
         }
 ---
-{% include JB/setup %}
 
 I upgraded my system to Gnome 3.10 and loved it, besides having lots of crashes which i am getting used to. These new styles on Gnome 3.10 was fascinating. After quick digging I found some flat icons and an awesome chameleon tool for shell ([elegance-colors](http://satya164.deviantart.com/art/Gnome-Shell-Elegance-Colors-305966388)).
 
